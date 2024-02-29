@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AliJaker
 - 👀 I’m interested in ...HTML, CSS, Python, JavaScript, etc.
-- 🌱 I’m currently learning ...HTML.
+- 🌱 I’m currently learning ...HTML, Java, Python, MySql etc.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...www.facebook.com/AliJakerAJ
+- 📫 How to reach me ...<a href="www.facebook.com/AliJakerAJ">FB-Profile</a>
 
 <!---
 AliJaker/AliJaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
